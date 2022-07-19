@@ -12,5 +12,5 @@ OR
 2. =>Flow the website link" => "Home" page =>clicking "Get Started" button => "Transfer" => "Enter the amount" => "submit"
 
 
-LinkedIn Link: LinkedIn Link:https://www.linkedin.com/in/ashish-saha-6028a2204/
-TSF Link: https://www.linkedin.com/company/the-sparks-foundation/
+My LinkedIn Link:https://www.linkedin.com/in/ashish-saha-6028a2204/
+TSF LindedIn Link: https://www.linkedin.com/company/the-sparks-foundation/
