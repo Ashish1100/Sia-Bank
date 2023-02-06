@@ -3,7 +3,7 @@ Sia Bank is the part of the The Sparks Foundation Internship(Basic Banking Syste
 
 The Sia Bank website consist of: direct Get Started button, Money Transfer option and 16 dummy users.
 
-Software Used: VS Code, Git and GitHub and Crome Browser.
+Software Used: VS Code, Git, GitHub and Crome Browser.
 
 Technology Used: HTML, CSS
 
