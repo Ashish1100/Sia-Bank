@@ -16,8 +16,6 @@ Sia Bank Link: https://ashish1100.github.io/Sia-Bank/
 
 My LinkedIn Link:https://www.linkedin.com/in/ashish-saha-6028a2204/
 
-TSF Work LindedIn Link: https://www.linkedin.com/company/the-sparks-foundation/
-
 # Project Screenshots
 
 ![Screenshot (2435)](https://user-images.githubusercontent.com/97810143/179823105-e061798c-8ab4-419b-afcf-84bda981b32e.png)
